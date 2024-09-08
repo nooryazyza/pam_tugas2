@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">tugas2</string>
+    <string name="tambah">+</string>
+    <string name="kurang">-</string>
+    <string name="kali">*</string>
+    <string name="bagi">/</string>
+    <string name="btn_hitung">Hitung</string>
+    <string name="hint_num1">Masukkan angka 1</string>
+    <string name="hint_num2">Masukkan angka 2</string>
+</resources>
